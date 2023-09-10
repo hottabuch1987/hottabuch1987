@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges">
-  ### Hi, this is my pet 👋
+Hi, this is my pet 👋
   <a href="https://www.youtube.com/channel/UCCLye31f_uhGnJk3Vl1dYtg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
