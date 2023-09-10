@@ -23,4 +23,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hottabuch1987&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hottabuch1987&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
