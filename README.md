@@ -1,4 +1,6 @@
-### I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> Backend Developer.
+### I am a Backend Developer.
+<br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
 
 
 <!--
