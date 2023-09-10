@@ -1,5 +1,5 @@
-### I am a Backend Developer from Russia.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### I am a Backend Developer.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 <!--
 **hottabuch1987/hottabuch1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
