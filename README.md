@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="badges">
 My pet 👋
+<div id="badges">
   <a href="https://www.youtube.com/channel/UCCLye31f_uhGnJk3Vl1dYtg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
