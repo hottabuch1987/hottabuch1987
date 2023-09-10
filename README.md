@@ -1,4 +1,5 @@
-### I am a Backend Developer.
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+Backend+Developer)](https://git.io/typing-svg)
+
 <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
 
