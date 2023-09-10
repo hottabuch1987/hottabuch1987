@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, this is my pet 👋
 
 <!--
 **hottabuch1987/hottabuch1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
