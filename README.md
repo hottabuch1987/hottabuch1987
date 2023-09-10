@@ -1,5 +1,5 @@
-### I am a Backend Developer.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+### I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> Backend Developer.
+
 
 <!--
 **hottabuch1987/hottabuch1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges">
-Hi, this is my pet 👋
+My pet 👋
   <a href="https://www.youtube.com/channel/UCCLye31f_uhGnJk3Vl1dYtg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
