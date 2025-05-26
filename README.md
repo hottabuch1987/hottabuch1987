@@ -5,11 +5,7 @@
 
 
 <p>My pet 👋 </p>
-<div id="badges">
-  <a href="https://www.youtube.com/channel/UCCLye31f_uhGnJk3Vl1dYtg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
